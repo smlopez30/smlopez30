@@ -14,4 +14,5 @@
 ### Conéctate conmigo:
 
 [linkedin]: (https://www.linkedin.com/in/sergio-lopez-1149731a/)https://www.linkedin.com/in/sergio-lopez-1149731a/)
-[twitter]: (https://twitter.com/Semilo33)https://twitter.com/Semilo33)
+
+[twitter]: (https://twitter.com/Semilo33)
