@@ -13,7 +13,7 @@
 
 ### Conéctate conmigo:
 [<img align="left" alt="TuSitioWeb" width="22px" src="IconoDeTuSitioWeb" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="IconoDeLinkedIn" />][linkedin]
+[<img align="left" alt="[LinkedIn](https://www.linkedin.com/in/sergio-lopez-1149731a/)" width="22px" src="IconoDeLinkedIn" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="IconoDeTwitter" />][twitter]
 
 [website]: EnlaceATuSitioWeb
