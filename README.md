@@ -12,10 +12,6 @@
 - ⚡ Dato curioso: Siempre le busco la vuelta a los problemas
 
 ### Conéctate conmigo:
-[<img align="left" alt="TuSitioWeb" width="22px" src="IconoDeTuSitioWeb" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="IconoDeLinkedIn" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="IconoDeTwitter" />][twitter]
 
-[website]: EnlaceATuSitioWeb
 [linkedin]: https://www.linkedin.com/in/sergio-lopez-1149731a/)https://www.linkedin.com/in/sergio-lopez-1149731a/
-[twitter]: TuPerfilDeTwitter
+[twitter]: [TuPerfilDeTwitter](https://twitter.com/Semilo33)https://twitter.com/Semilo33
